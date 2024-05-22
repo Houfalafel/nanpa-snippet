@@ -1,1 +1,25 @@
-
+{
+    "spec": 1,
+    "name": "nasin nanpa Epetika",
+    "previewText": "ni li nasin nanpa li kepeken linja Epetika",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "ggsans-Bold": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "ggsans-BoldItalic": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "ggsans-ExtraBold": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "ggsans-ExtraBoldItalic": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "ggsans-Medium": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "ggsans-MediumItalic": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "ggsans-Normal": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "ggsans-NormalItalic": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "ggsans-Semibold": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "ggsans-SemiboldItalic": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "NotoSans-Bold": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "NotoSans-ExtraBold": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "NotoSans-Medium": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "NotoSans-Normal": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "NotoSans-NormalItalic": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "NotoSans-Semibold": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf",
+        "SourceCodePro-Semibold": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-4.0.0-Helvetica.otf"
+    }
+}
